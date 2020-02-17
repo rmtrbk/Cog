@@ -1,4 +1,4 @@
-Cognizant User Data Application
+User Data Application
 ===============================
 
 Problem
